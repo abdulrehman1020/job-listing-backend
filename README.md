@@ -42,10 +42,8 @@ npm run dev
 ### GET `/api/job`
 
 - **Description**: Retrieves a list of all jobs with their id,status and image.
-  ```
 
 ### GET `/api/job/:id`
 
 - **Description**: Retrieves the status and image of a job by its ID.
-  ```
 
